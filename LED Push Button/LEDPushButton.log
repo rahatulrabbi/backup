@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\3-1\Computer Architechture & Microcontroller\Lab\code\LED Push Button\LEDPushButton.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\3-1\Computer Architechture & Microcontroller\Lab\code\LED Push Button\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "LEDPushButton.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	LEDPushButton.c
+diagnostics: 29	123	Compiled Successfully	LEDPushButton.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 4 (1%)  Free RAM (bytes): 348 (99%)	Used RAM (bytes): 4 (1%)  Free RAM (bytes): 348 (99%)
+hint: 0	1144	Used ROM (program words): 86 (1%)  Free ROM (program words): 8106 (99%)	Used ROM (program words): 86 (1%)  Free ROM (program words): 8106 (99%)
+diagnostics: 0	125	Project Linked Successfully	LEDPushButton.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'LEDPushButton.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 25 Feb 2023, 19:21:28	LEDPushButton.mcppi
