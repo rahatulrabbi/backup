@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\7 Segment\prblm2\commonAnode.mcppi
+Project1=New\sevenSegment0To9.mcppi
+Project2=sevenSegment0To9.mcppi
+[ActiveProject]
+Index=2
